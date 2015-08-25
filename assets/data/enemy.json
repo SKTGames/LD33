@@ -1,0 +1,50 @@
+{
+"frames": {
+	"bat1": {
+		"frame": {"x":0, "y":123, "w":30, "h":25},
+		"spriteSourceSize": {"x":0,"y":0,"w":30,"h":25},
+		"sourceSize": {"w":30,"h":25}
+	},
+	"bat2": {
+		"frame": {"x":31, "y":123, "w":30, "h":25},
+		"spriteSourceSize": {"x":0,"y":0,"w":30,"h":25},
+		"sourceSize": {"w":30,"h":25}
+	},
+	"heart1": {
+		"frame": {"x":119, "y":0, "w":30, "h":77},
+		"spriteSourceSize": {"x":0,"y":3,"w":30,"h":80},
+		"sourceSize": {"w":30,"h":80}
+	},
+	"heart2": {
+		"frame": {"x":88, "y":41, "w":30, "h":77},
+		"spriteSourceSize": {"x":0,"y":3,"w":30,"h":80},
+		"sourceSize": {"w":30,"h":80}
+	},
+	"heart3": {
+		"frame": {"x":119, "y":78, "w":30, "h":80},
+		"spriteSourceSize": {"x":0,"y":0,"w":30,"h":80},
+		"sourceSize": {"w":30,"h":80}
+	},
+	"rat1": {
+		"frame": {"x":0, "y":82, "w":87, "h":40},
+		"spriteSourceSize": {"x":3,"y":0,"w":90,"h":40},
+		"sourceSize": {"w":90,"h":40}
+	},
+	"rat2": {
+		"frame": {"x":0, "y":0, "w":88, "h":40},
+		"spriteSourceSize": {"x":2,"y":0,"w":90,"h":40},
+		"sourceSize": {"w":90,"h":40}
+	},
+	"rat3": {
+		"frame": {"x":0, "y":41, "w":87, "h":40},
+		"spriteSourceSize": {"x":3,"y":0,"w":90,"h":40},
+		"sourceSize": {"w":90,"h":40}
+	}
+
+},
+"meta": {
+	"image": "enemy.png",
+	"size": {"w": 150, "h": 159},
+	"scale": "1"
+}
+}
